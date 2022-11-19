@@ -110,12 +110,9 @@
 
 .main .shoe {
     background-color: var(--bgCard);
-    padding: 76px 62px;
-    margin-bottom: 30px;
-}
-
-.main .shoe img{
-    width: 200px;
+    padding: 7px 6px;
+    border-radius: 5px;
+    margin-bottom: 3px;
 }
 
 .footer {
