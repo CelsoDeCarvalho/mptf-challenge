@@ -114,6 +114,10 @@
     margin-bottom: 30px;
 }
 
+.main .shoe img{
+    width: 200px;
+}
+
 .footer {
     position: relative;
     background-color: var(--title);
